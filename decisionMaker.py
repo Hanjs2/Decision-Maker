@@ -10,7 +10,7 @@ while should_cont:
     optOne= input('Enter option 1: ')
     optTwo= input('Enter option 2: ')
     next_ops=""
-    for _ in range(2):
+    for _ in range(1):
         all_ops.append(optOne)
         print(all_ops)
         all_ops.append(optTwo)
