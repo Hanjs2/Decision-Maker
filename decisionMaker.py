@@ -1,7 +1,8 @@
 import random
+from art import logo
 
 
-
+print(logo)
 should_cont=True
 while should_cont:
     add_choice=True
